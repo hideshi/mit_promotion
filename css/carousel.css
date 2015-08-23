@@ -26,6 +26,11 @@ body {
   left: 10px;
   margin: auto;
 }
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
 .carousel-control.left, .carousel-control.right {
   /*background-image: none*/
 }
